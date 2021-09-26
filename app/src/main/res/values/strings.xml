@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">loginVersion_03</string>
+    <string name="createnewaccount">Create New Account</string>
+    <string name="reg_name">Name</string>
+    <string name="reg_email">E-mail</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_phoneNo">Phone Number</string>
+    <string name="reg_btnReg">Register</string>
+    <string name="reg_pathLogin">Already Registered? Login here</string>
+    <string name="login_password">Password</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_login">LOGIN</string>
+    <string name="login_tvcCeateAccount">New here? Create Account</string>
+    <string name="btnlogout">LOGOUT</string>
+    <string name="login_counter">No Of Attempts Remaining: </string>
+    <string name="main_admin">To Go Admin Side</string>
+
+</resources>
